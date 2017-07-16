@@ -4,5 +4,13 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_take_course">Belegen / Abmelden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scheduleDay_mo">Mo.</string>
+    <string name="scheduleDay_di">Di.</string>
+    <string name="scheduleDay_mi">Mi.</string>
+    <string name="scheduleDay_do">Do.</string>
+    <string name="scheduleDay_fr">Fr.</string>
 </resources>
